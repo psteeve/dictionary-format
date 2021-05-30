@@ -1,0 +1,346 @@
+Libellé STELLA	Code ODM	Catégorie
+Épreuve d'accélération	AUTOACCELERATION	Automobile
+Course / rallye aérien	ACTIVITESAERIENNES	Activités aériennes de loisir
+Aéroglisseur	AUTOAEROGLISSEUR	Automobile
+Montgolfière	AEROSTATION	Activités aériennes de loisir
+Ballon à gaz	AEROSTATION	Activités aériennes de loisir
+Dirigeable	AEROSTATION	Activités aériennes de loisir
+Agility	AGILITY	Sports canins
+Aïkido	AIKIDO	Arts martiaux
+Aïkibudo	AIKIDO	Arts martiaux
+Aile volante	AILEVOLANTE	Sports extrêmes
+Alpinisme	ALPINISME	Montagne
+Varappe	ALPINISME	Montagne
+Escalade	ALPINISME	Montagne
+Attelage	ATTELAGE	Équitation
+Autocross	AUTOCROSS	Automobile
+Activités aériennes de loisir sur autogires et gyroplanes	AUTOGIRE	Activités aériennes de loisir
+Autograss	AUTOGRASS	Automobile
+Autotests	AUTOTESTS	Automobile
+Aviation	AVIATION	Activités aériennes de loisir
+Aviron	AVIRON	Sports aquatiques
+Badminton	BADMINTON	Sports de raquette et canne
+Balade	RANDONNEE	Randonnée
+Randonnée	RANDONNEE	Randonnée
+Ball trap	BALLTRAP	Sports de lancer, de tir et de cible
+Tir aux pigeons	BALLTRAP	Sports de lancer, de tir et de cible
+Banger racing	AUTOBANGER	Automobile
+Baptême / initiations Aile volante	BAPTAILEVOLANTE	Sports extrêmes
+Baptême / initiations Base jump	BAPTBASEJUMP	Sports extrêmes
+Baptême / initiations Parachutisme	BAPTPARACHUTISME	Baptême / initiations
+Baptême / initiations saut à l'élastique	BAPTSAUTELASTIQUE	Baptême / initiations
+Baptême / initiations Skysurf	BAPTSKYSURF	Sports extrêmes
+Baptême / initiations Speed flying	BAPTSPEEDFLYING	Sports extrêmes
+Baptême / initiations Speed riding	BAPTSPEEDRIDING	Sports extrêmes
+Baptême / initiations Wingsuit	BAPTWINGSUIT	Sports extrêmes
+Baptême / initiations encadrés par un personnel qualifié (hors AILE VOLANTE / BASE JUMP / SKYSURF / SPEED FLYING / SPEED RIDING / WINGSUIT)	BAPTAUTRE	Baptême / initiations
+Base ball	BASEBALL	Sports collectifs, de raquette et canne
+Base jump	BASEJUMP	Sports extrêmes
+Basket ball	BASKETBALL	Sports collectifs, de balle
+Beach soccer	BEACHSOCCER	Sports collectifs, de balle
+Football de plage	BEACHSOCCER	Sports collectifs, de balle
+Beach volley	BEACHVOLLEY	Sports collectifs, de balle
+Volley de plage	BEACHVOLLEY	Sports collectifs, de balle
+Behourd	BEHOURD	Sports de combat
+Biathlon	BIATHLON	Sports de neige
+Billard	BILLARD	Loisirs
+Snooker	BILLARD	Loisirs
+BMX	BMX	Cyclisme
+Bicross	BMX	Cyclisme
+Bobsleigh	BOBSLEIGH	Sports de neige
+Body building	BODYBUILDING	Développement musculaire
+Boomerang	BOOMERANG	Sports de lancer, de tir et de cible
+Bowling	BOWLING	Loisirs
+Quilles	BOWLING	Loisirs
+Boxe américaine	BOXEAMERICAINE	Sports de combat
+Boxe anglaise	BOXEANGLAISE	Sports de combat
+Boxe française	BOXEFRANCAISE	Sports de combat
+Boxe thaïlandaise	BOXETHAI	Sports de combat
+Budo	BUDO	Arts martiaux
+Canoë kayak (descentes de rivières / eaux vives / rafting)	KAYAKRAFT	Sports aquatiques
+Canoë kayak (hors descentes de rivières / eaux vives / rafting et hors expédition)	KAYAK	Sports aquatiques
+Canyonisme	CANYONISME	Sports aquatiques
+Capoeira	CAPOEIRA	Arts martiaux
+Kapoera	CAPOEIRA	Arts martiaux
+Catch	CATCH	Sports de combat
+Char à glace	CHARGLACE	Glisse sur glace, voile
+Char à voile	CHARVOILE	Voile
+Chasse petit et gros gibier	CHASSE	Chasse
+Safari	SAFARI	Chasse
+Chasse à courre	CHASSECOURRE	Chasse
+Vénerie	CHASSECOURRE	Chasse
+Combiné nordique	COMBINENORDIQUE	Sports de neige
+Concours complets	CROSSCOUNTRY	Équitation
+Cross country	CROSSCOUNTRY	Équitation
+Concours hippiques	JUMPING	Équitation
+Jumping	JUMPING	Équitation
+Course à économie d'énergie	AUTOECOENERGIE	Automobile
+Course à pieds (à l'exception des compétitions de trails ou de sports extrêmes)	COURSEAPIEDS	Course à pieds
+Running (à l'exception des compétitions de trails ou de sports extrêmes)	COURSEAPIEDS	Course à pieds
+Course de camions	AUTOCAMION	Automobile
+Course de cotes	AUTOCOTES	Automobile
+Dragsters	AUTODRAGSTER	Automobile
+Courses de haies (athlétisme)	HAIES	Athlétisme
+Course de tondeuse a gazon	AUTOTONDEUSE	Automobile
+Course de traineaux	TRAINEAUX	Sports de neige
+Ski joering canin	TRAINEAUX	Sports de neige
+Course de vitesse en montagne	VITESSEMONTAGNE	Montagne
+Course sans obstacles (sprint, demi-fond, fond)	COURSESSOBS	Athlétisme
+Course sur sable	AUTOSABLE	Automobile
+Épreuves d'accélération	MOTOACCELERATION	Moto
+Enduro	MOTOENDURO	Moto
+Courses de cotes	MOTOCOTES	Moto
+Dragster	MOTODRAGSTER	Moto
+Courses de motos électriques	MOTOECOURSE	Moto
+Ecourses	MOTOECOURSE	Moto
+Courses de plat	COURSEPLAT	Équitation
+Pocket bike	MOTOPOCKETBIKE	Moto
+Courses de scooters et cyclomoteurs	MOTOSCOOTER	Moto
+Courses de trot - courses attelées	TROT	Équitation
+Courses sur circuit	MOTOCIRCUIT	Moto
+Courses sur glace	MOTOGLACE	Moto
+Courses sur pistes	MOTOPISTE	Moto
+Courses sur sable	MOTOSABLE	Moto
+Cricket	CRICKET	Sports collectifs, de raquette et canne
+Criquet	CRICKET	Sports collectifs, de raquette et canne
+Croquet	CROQUET	Sports collectifs, de raquette et canne
+Cross boxing	CROSSBOXING	Fitness
+Cross country (tout terrain)	AUTOCROSSCOUNTRY	Automobile
+Crossfit en salle ou extérieur	CROSSFIT	Fitness
+Culturisme	CULTURISME	Développement musculaire
+Curling	CURLING	Glisse sur glace
+Cyclisme (hors VTT et BMX)	CYCLISME	Cyclisme
+Vélo (hors VTT et BMX)	CYCLISME	Cyclisme
+Danse	DANSE	Danse
+Décathlon	DECATHLON	Athlétisme
+Deltaplane	DELTAPLANE	Activités aériennes de loisir
+Deltaplane motorisé	DELTAPLANE	Activités aériennes de loisir
+Parapente	DELTAPLANE	Activités aériennes de loisir
+Dressage	DRESSAGE	Équitation
+Échasse	ECHASSE	Loisirs
+Endurance	ENDURANCE	Équitation
+Escalade sur glace	ESCALADEGLACE	Montagne
+Escrime	ESCRIME	Escrime
+Épée	ESCRIME	Escrime
+Sabre	ESCRIME	Escrime
+Fleuret	ESCRIME	Escrime
+Essai de vitesse	AUTOVITESSE	Automobile
+Exhibitions et essais préparatoires qui les précèdent	EXHIBITION	Records / Paris
+Expédition Montagne (Himalaya - cordillère des Andes - Antarctique ...)	EXPEDITIONMONTAGNE	Montagne
+Fitness	FITNESS	Fitness
+Aérobic	FITNESS	Fitness
+Zumba	FITNESS	Fitness
+Fléchettes	FLECHETTES	Loisirs
+Football	FOOTBALL	Sports collectifs, de balle
+Football américain	FOOTAMERICAIN	Sports collectifs, de balle
+Footing	FOOTING	Course à pieds
+Automobile sur formule monoplace	AUTOMONOPLACE	Automobile
+Free fight	FREEFIGHT	Sports extrêmes
+Frisbee	FRISBEE	Sports de lancer, de tir et de cible
+Disc golf	FRISBEE	Sports de lancer, de tir et de cible
+Full contact	FULLCONTACT	Sports extrêmes
+Futsal	FUTSAL	Sports collectifs, de balle
+Golf	GOLF	Sports de raquette et canne
+Grass track	AUTOGRASSTRACK	Automobile
+Gymkhana	GYMKHANA	Équitation
+Western équitation	GYMKHANA	Équitation
+Gymnastique	GYMNASTIQUE	Gymnastique
+Gymnastique aquatique	AQUAGYM	Gymnastique
+Aquagym	AQUAGYM	Gymnastique
+Danse aquatique	AQUAGYM	Sports aquatiques
+Natation synchronisée	AQUAGYM	Sports aquatiques
+Haltérophilie	HALTEROPHILIE	Développement musculaire
+Hand ball	HANDBALL	Sports collectifs, de balle
+Hapkido	HAPKIDO	Arts martiaux
+Hélicoptère privé	HELICOPTERE	Activités aériennes de loisir
+Heptathlon	HEPTATHLON	Athlétisme
+Hockey subaquatique	HOCKEYAQUA	Sports collectifs, aquatiques, de crosse
+Hockey sur gazon	HOCKEYGAZON	Sports collectifs, de crosse
+Hockey sur glace	HOCKEYGLACE	Sports collectifs, glisse sur glace, de crosse
+Hockey sur patins à roulettes	HOCKEYROULETTE	Sports collectifs, de crosse
+Hunter	HUNTER	Équitation
+Hydrospeed	HYDROSPEED	Sports aquatiques
+Jet ski	JETSKI	Sports aquatiques
+Scooter des mers	JETSKI	Sports aquatiques
+Jeu de paume	PAUME	Sports de raquette et canne
+Jiu-jitsu	JIUJITSU	Arts martiaux
+Jogging	JOGGING	Course à pieds
+Joute équestre	JOUTEEQUESTRE	Équitation
+Joute nautique	JOUTENAUTIQUE	Sports aquatiques
+Judo	JUDO	Arts martiaux
+Karaté	KARATE	Arts martiaux
+Karting	KARTING	Automobile
+Kempo	KEMPO	Arts martiaux
+Kendo	KENDO	Arts martiaux
+Kenjutsu	KENDO	Arts martiaux
+Kick boxing	KICKBOXING	Sports de combat
+Kilomètre lance	KL	Sports de neige
+Kitesurf	KITESURF	Sports aquatiques, de glisse d'eau
+Kobudo	KOBUDO	Arts martiaux
+Krav maga	KRAVMAGA	Sports de combat, self-défense
+Kung fu	KUNGFU	Arts martiaux
+Kyudo	KYUDO	Sports de lancer, de tir et de cible
+Lancer du disque	DISQUE	Athlétisme
+Lancer du javelot	JAVELOT	Athlétisme
+Lancer du marteau	MARTEAU	Athlétisme
+Lancer du poids	POIDS	Athlétisme
+Luge de loisir	LUGELOISIR	Sports de neige
+Luge sportive	LUGESPORTIVE	Sports de neige
+Lutte gréco romaine	LUTTEGRECOROMAINE	Sports de combat
+Lutte libre	LUTTELIBRE	Sports de combat
+Manège	MANEGE	Équitation
+Marche	MARCHE	Randonnée
+Randonnée pédestre	MARCHE	Randonnée
+Marche nordique	MARCHENORDIQUE	Randonnée
+MMA (Mixed Martial Arts)	MMA	Sports extrêmes
+Motocross (scrambling)	MOTOCROSS	Moto
+Motonautisme (Bateaux de course F1, F2 / Drag racing / Catégories prototypes sans limitations / Superboats / Hydroglisseurs / In-board et hors-bord / Thundercat et zapcat)	MOTONAUTISME	Sports aquatiques
+Motoneige (hors moyen de locomotion)	MOTONEIGE	Sports de neige
+Scooter des neiges  (hors moyen de locomotion)	MOTONEIGE	Sports de neige
+Mur d'escalade - parc d'aventure	PARCAVENTURE	Loisirs
+Musculation	MUSCULATION	Développement musculaire
+Natation	NATATION	Sports aquatiques
+Navigation	NAVIGATION	Voile
+Voile	NAVIGATION	Voile
+Nautisme	NAVIGATION	Voile
+Yachting	NAVIGATION	Voile
+Netball	NETBALL	Sports collectifs, de balle
+Ninjutsu	NINJUTSU	Arts martiaux
+Paddle	PADDLE	Sports aquatiques, de glisse d'eau
+Paintball	PAINTBALL	Loisirs
+Pancrace moderne	PANCRACE	Sports de combat
+Parachutisme	PARACHUTISME	Activités aériennes de loisir
+Chute libre	PARACHUTISME	Activités aériennes de loisir
+Paraski	PARASKI	Sports de neige
+Paravoile	PARAVOILE	Activités aériennes de loisir
+Parachutisme ascensionnel	PARAVOILE	Activités aériennes de loisir
+Paris et essais préparatoires qui les précèdent	PARIS	Records / Paris
+Participation à des défis et essais préparatoires qui les précèdent	DEFIS	Records / Paris
+Patinage artistique	PATINAGEART	Glisse sur glace
+Patinage de vitesse	PATINAGEVITESSE	Glisse sur glace
+Patinage sur glace	PATINAGEGLACE	Glisse sur glace
+Patinage sur roulettes	PATINAGEROULETTE	Glisse urbaine
+Pêche	PECHE	Sports aquatiques, de raquette et canne
+Pelote basque	PELOTEBASQUE	Sports collectifs, de raquette et canne
+Pentathlon moderne	PENTATHLON	Équitation
+Pétanque	PETANQUE	Sports de lancer, de tir et de cible
+Boules	PETANQUE	Sports de lancer, de tir et de cible
+Pilates	PILATES	Activité physique
+Piloxing	PILOXING	Activité physique
+Planche à voile	WINDSURF	Sports aquatiques, de glisse d'eau
+Windsurf	WINDSURF	Sports aquatiques, de glisse d'eau
+Wakeboard	WINDSURF	Sports aquatiques, de glisse d'eau
+Funboard	WINDSURF	Sports aquatiques, de glisse d'eau
+Plongée avec tuba	PLONGEE	Sports aquatiques
+Plongée avec scaphandre autonome	PLONGEETUBA	Sports aquatiques
+Plongée libre ou en apnée	PLONGEEAPNEE	Sports aquatiques
+Plongeon	PLONGEON	Sports aquatiques
+Pole dance	POLEDANCE	Danse
+Polo	HORSEBALL	Équitation
+Horse ball	HORSEBALL	Équitation
+Promenade équestre	RANDOEQUESTRE	Équitation
+Balade équestre	RANDOEQUESTRE	Équitation
+Randonnée équestre	RANDOEQUESTRE	Équitation
+Quad	QUAD	Moto
+Racquetball	RACQUETBALL	Sports de raquette et canne
+Rallyes automobiles	AUTORALLYE	Automobile
+Rallyes moto	MOTORALLYE	Moto
+Raid	MOTORALLYE	Moto
+Moto tout terrain	MOTORALLYE	Moto
+Randonnée à raquettes	RANDORAQUETTE	Randonnée
+Rink hockey	RINKHOCKEY	Sports collectifs, de crosse
+Rodéo	RODEO	Équitation
+Roller (y compris de vitesse)	ROLLER	Glisse urbaine
+Roller en skatepark	SKATEPARK	Glisse urbaine
+Rugby (à XIII ou à XV)	RUGBY	Sports collectifs, de balle
+Sambo	SAMBO	Sports de combat
+Sanda	SANDA	Sports de combat
+Sanshou	SANDA	Sports de combat
+Saut à la perche	SAUTPERCHE	Athlétisme
+Saut à l'élastique	SAUTELASTIQUE	Sports extrêmes
+Saut à ski	SAUTSKI	Sports de neige
+Saut en hauteur	SAUTHAUTEUR	Athlétisme
+Saut en longueur	SAUTLONGUEUR	Athlétisme
+Sauts	STEEPLECHASE	Équitation
+Courses de haies (équitation)	STEEPLECHASE	Équitation
+Courses d'obstacles	STEEPLECHASE	Équitation
+Steeple chase	STEEPLECHASE	Équitation
+Savate	SAVATE	Sports de combat
+Self defense	SELFDEFENSE	Sports de combat, self-défense
+Skateboard	SKATEBOARD	Glisse urbaine
+Planche à roulettes	SKATEBOARD	Glisse urbaine
+Skeleton	SKELETON	Sports de neige
+Ski alpin	SKIALPIN	Sports de neige
+Ski artistique et acrobatique	SKIACRO	Sports de neige
+Ski de bosses	SKIBOSSE	Sports de neige
+Ski de fond	SKIFOND	Sports de neige
+Ski de randonnée	SKIRANDO	Sports de neige
+Ski de vitesse	SKIVITESSE	Sports de neige
+Ski joering (à cheval)	JOERINGEQUESTRE	Équitation
+Ski attelé	JOERINGEQUESTRE	Équitation
+Ski joering (à véhicule à moteur)	JOERINGMOTEUR	Sports de neige
+Ski nautique	SKINAUTIQUE	Sports aquatiques, de glisse d'eau
+Skysurf	SKYSURF	Sports extrêmes
+Slaloms	AUTOSLALOM	Automobile
+Snowkite	SNOWKITE	Sports de neige
+Snowscoot	SNOWSCOOT	Sports de neige
+Speed flying	SPEEDFLYING	Sports extrêmes
+Speed riding	SPEEDRIDING	Sports extrêmes
+Spéléologie - exploration de grottes	SPELEOLOGIE	Montagne
+Spéléologie sous-marine	SPELEOSSMARINE	Sports aquatiques
+Sporting trials	AUTOSPORTINGTRIAL	Automobile
+Squash	SQUASH	Sports de raquette et canne
+Street workout	STREETWORKOUT	Fitness
+Stunt	MOTOSTUNT	Moto
+Sumo	SUMO	Arts martiaux
+Surf	SURF	Sports aquatiques, de glisse d'eau
+Bodyboard	SURF	Sports aquatiques, de glisse d'eau
+Surf des neiges	SURFNEIGES	Sports de neige
+Tae bo	TAEBO	Fitness
+Taekwondo	TAEKWONDO	Arts martiaux
+Tai-chi-chuan	TAICHICHUAN	Fitness
+Tauromachie	TAUROMACHIE	Sports extrêmes
+Tennis	TENNIS	Sports de raquette et canne
+Tennis de table	TENNISTABLE	Sports de raquette et canne
+Ping-pong	TENNISTABLE	Sports de raquette et canne
+Tentatives de record et essais préparatoires qui les précèdent	RECORD	Records / Paris
+Tir à l'arc	TIRARC	Sports de lancer, de tir et de cible
+Tir à l'arme de poing	TIRARMEPOING	Sports de lancer, de tir et de cible
+Tir à la carabine	TIRCARABINE	Sports de lancer, de tir et de cible
+Tir au pistolet	TIRPISTOLET	Sports de lancer, de tir et de cible
+Tir aux clays	TIRCLAYS	Sports de lancer, de tir et de cible
+Track days auto	AUTOTRACKDAYS	Automobile
+Track days moto	MOTOTRACKDAYS	Moto
+Trail (course à pied)	TRAIL	Course à pieds
+Moto trail	MOTOTRAIL	Moto
+Trampoline	TRAMPOLINE	Loisirs
+Trekking	TREKKING	Montagne
+Tramping	TREKKING	Montagne
+Descente en rappel	TREKKING	Montagne
+Trial	AUTOTRIAL	Automobile
+Trial en vélo	VELOTRIAL	Cyclisme
+Moto trial	MOTOTRIAL	Moto
+Triathlon	TRIATHLON	Athlétisme
+Triple saut	SAUTTRIPLE	Athlétisme
+Twirling baton	TWIRLING	Gymnastique
+Ulm	ULM	Activités aériennes de loisir
+Paramoteur	ULM	Activités aériennes de loisir
+Ultimate frisbee	FRISBEEULTI	Sports de lancer, de tir et de cible
+Moto sur véhicules vétérans et historiques	MOTOVETERAN	Moto
+Via ferrata	VIAFERRATA	Montagne
+Viet-vo-dao	VIETVODAO	Arts martiaux
+Vo-dan-toc	VODANTOC	Arts martiaux
+Automobile avec voiture de tourisme	AUTOTOURISME	Automobile
+Automobile avec voiture de sport	AUTOTOURISME	Automobile
+Automobile avec berlines	AUTOTOURISME	Automobile
+Vol à voile	PLANEUR	Activités aériennes de loisir
+Planeurs	PLANEUR	Activités aériennes de loisir
+Volley ball	VOLLEYBALL	Sports collectifs, de balle
+Voltige / acrobatie aérienne	VOLTIGEAERIENNE	Sports extrêmes
+Voltige équestre	VOLTIGEEQUESTRE	Équitation
+Vtt (hors vtt de descente)	VTT	Cyclisme
+Vtt de descente	VTTDESCENTE	Cyclisme
+Waterpolo	WATERPOLO	Sports collectifs, aquatiques
+Wingsuit	WINGSUIT	Sports extrêmes
+Yoga	YOGA	Activité physique
+Zorbing (sur herbe / sur neige / hydrozorbing)	ZORBING	Loisirs

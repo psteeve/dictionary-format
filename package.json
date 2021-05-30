@@ -1,0 +1,23 @@
+{
+  "name": "dictionary-format",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "start": "node dist/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/psteeve/dictionary-format.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/psteeve/dictionary-format/issues"
+  },
+  "homepage": "https://github.com/psteeve/dictionary-format#readme",
+  "devDependencies": {
+    "@types/node": "^15.6.1"
+  }
+}
